@@ -1,6 +1,6 @@
 Aoa
 
-new clean GUI
+new clean GUI aa
 
 The git commands are making a graph. And algos can be applied.
 It will go auto in cloud
