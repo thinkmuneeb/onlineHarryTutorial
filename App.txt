@@ -2,6 +2,8 @@ Aoa
 
 new clean GUI aa
 
+button for sms speed increase..
+
 The git commands are making a graph. And algos can be applied.
 It will go auto in cloud
 I wish IA make a system for coding or programming in which no error can occur
